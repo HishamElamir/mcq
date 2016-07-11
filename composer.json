@@ -1,0 +1,15 @@
+{
+    "name": "mo3taz/bms",
+    "authors": [
+        {
+            "name": "mo3taz",
+            "email": "mo3taz@tqnyat.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2-jui": "^2.0@dev",
+        "kartik-v/yii2-date-range": "dev-master",
+        "codeception/codeception": "*"
+    }
+}

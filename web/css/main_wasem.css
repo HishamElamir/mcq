@@ -1,0 +1,45 @@
+/*teacher*/
+.exam {
+	border-bottom: 1px solid #222d32;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+.exam .exam-details{
+	background: #222D32;
+	box-shadow: 0 0 5px 0;
+	margin-bottom: 15px;
+	color:white;
+}
+
+.exam .exam-date{
+	margin-top: 15px;
+}
+
+.exam-questions {
+	background: white none repeat scroll 0 0;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.exam-question-details{
+	border-bottom: 1px dashed #222d32;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+.exam-question-details .question-title{
+	text-shadow: 0 1px 2px;
+}
+
+.exam-question-details .question-ans ,.question-students .wrong{
+	border-right:1px solid #222d32;
+	background-color:gray;
+	color:white;
+}
+
+.exam-question-details .correct,.question-students .correct{
+	background:#6495ED;
+	color:white;
+}

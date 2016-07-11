@@ -1,0 +1,42 @@
+/*guide page*/
+#site-guide img {
+  max-width:100%;
+  height:auto;
+}
+
+#site-guide h2{
+  background: #ececec none repeat scroll 0 0;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  color: #555;
+ 
+  padding: 5px 10px;
+}
+
+#site-guide #table-of-content a{
+  text-decoration: none;
+  transition: all 0.5s ease 0s;
+}
+
+#site-guide .solo-img{
+  float:none;
+}
+
+#site-guide .section{
+  clear:both;
+}
+
+
+#site-guide .hlights{
+  color: #3d8dc2;
+}
+
+#gitting-started li{
+  list-style-type: none;
+}
+
+#gitting-started li .hlights{
+  font-style: italic;
+  font-weight: bold;
+  color: #800000;
+}
